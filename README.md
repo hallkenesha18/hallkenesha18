@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently a Management Information Systems (MIS) student at Bellevue University, with a strong interest in Data Analytics, Cybersecurity, IT Project Management, and Web Development (HTML/CSS). On this profile, you'll find a variety of projects and work focused on SQL, Data Analytics, Cybersecurity, IT Project Management, and Web Development.<br>About Me<br>🔍 Field of Study: Management Information Systems (MIS)<br>🏫 University: Bellevue University<br>🧑‍💻 Skills:<br>SQL<br>Data Analytics<br>Cybersecurity<br>IT Project Management<br>Database Design & Management<br>Data Visualization<br>Python (for data manipulation)<br>💡 Currently Working On: Data Analytics, SQL projects, and expanding knowledge in Cybersecurity and IT Project Management.
+I'm currently a Management Information Systems (MIS) student at Bellevue University, with a strong interest in Data Analytics, Cybersecurity, IT Project Management, and Web Development (HTML/CSS). On this profile, you'll find a variety of projects and work focused on SQL, Data Analytics, Cybersecurity, IT Project Management, and Web Development.<br>About Me<br>🔍
+
+Field of Study: Management Information Systems (MIS)<br>🏫 University: Bellevue University<br>🧑‍💻 Skills:<br>SQL<br>Data Analytics<br>Cybersecurity<br>IT Project Management<br>Database Design & Management<br>Data Visualization<br>Python (for data manipulation)<br>💡 Currently Working On: Data Analytics, SQL projects, and expanding knowledge in Cybersecurity and IT Project Management.
 
 
 ## 🌐 Socials:
