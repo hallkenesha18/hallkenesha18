@@ -1,7 +1,65 @@
 # 💫 About Me:
-I'm currently a Management Information Systems (MIS) student at Bellevue University, with a strong interest in Data Analytics, Cybersecurity, IT Project Management, and Web Development (HTML/CSS). On this profile, you'll find a variety of projects and work focused on SQL, Data Analytics, Cybersecurity, IT Project Management, and Web Development.<br>About Me<br>🔍
+I’m a Detection & Investigation Analyst Sr. with a background in Management Information Systems (MIS) and a strong focus on cybersecurity, investigations, and data analysis. My work and projects combine cyber defense, data analytics, and technology policy to help identify threats, analyze risk, and support secure systems.
 
-Field of Study: Management Information Systems (MIS)<br>🏫 University: Bellevue University<br>🧑‍💻 Skills:<br>SQL<br>Data Analytics<br>Cybersecurity<br>IT Project Management<br>Database Design & Management<br>Data Visualization<br>Python (for data manipulation)<br>💡 Currently Working On: Data Analytics, SQL projects, and expanding knowledge in Cybersecurity and IT Project Management.
+🎓 Education
+
+B.S. Management Information Systems (MIS) – Bellevue University
+
+B.S. Cyber Operations (In Progress) – Concentration in Cyber Law & Policy
+
+Minor: Sustainable Built Environments
+
+🔍 Professional Focus
+
+Cybersecurity Detection & Investigation
+
+Threat Analysis & Incident Response
+
+Data Analytics for Security Insights
+
+Cyber Law, Policy, and Governance
+
+IT Project Management
+
+🧠 Technical Skills
+
+SQL
+
+Data Analytics & Data Visualization
+
+Cybersecurity Investigation & Analysis
+
+Python (Data Analysis & Automation)
+
+Database Design & Management
+
+HTML / CSS
+
+Security & Risk Analysis
+
+📊 What You'll Find in My Repositories
+
+This GitHub includes projects related to:
+
+Cybersecurity investigations and security analysis
+
+SQL and data analytics projects
+
+Data visualization and reporting
+
+Web development (HTML/CSS)
+
+IT and cybersecurity research projects
+
+🚀 Currently Working On
+
+Cybersecurity investigation and detection techniques
+
+Expanding knowledge in cyber law and policy
+
+Security analytics and threat detection projects
+
+Sustainability and infrastructure research through my Sustainable Built Environments minor
 
 
 ## 🌐 Socials:
